@@ -8,8 +8,8 @@ import { Loader, Navbar, Footer, Welcome, Transactions, Services } from '../src/
         <Navbar />
         <Welcome />
       </div>
-      <Services />
       <Transactions />
+      <Services />
       <Footer /> 
     </div>
   )
